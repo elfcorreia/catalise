@@ -1,0 +1,20 @@
+{
+    "name": "elfcorreia/orm",
+    "description": "A simple ORM library",
+    "type": "library",
+    "license": "GNUv3",
+    "authors": [
+        {
+            "name": "Emerson C. Lima",
+            "email": "elfcorreia@gmail.com"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": ">8.0"
+        }
+    },
+    "require": {
+
+    }
+}
